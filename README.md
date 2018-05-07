@@ -1,2 +1,5 @@
-# hello
-First repository for ideas
+# hello-there
+
+Hi Homosapiens,
+
+Laavanya here! 
