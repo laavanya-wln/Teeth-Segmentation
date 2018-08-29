@@ -7,3 +7,6 @@ would save the investigators a lot of time. The first step towards a comparison 
 segmentation of the teeth. The!goal of this project is to develop a model-based
 segmentation approach, capable of segmenting the upper and lower incisors in
 panoramic radiographs.
+
+The goal of this project is to write an algorithm that is capable of segmenting the 8
+incisors automatically using a model based approach. 
