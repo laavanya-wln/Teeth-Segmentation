@@ -1,5 +1,7 @@
 # Teeth Segmentation using Active Shape Models
 
+Technologies : Python ; Subject : Computer Vision
+
 In forensic investigations, dental records are often relied upon to accurately
 identify deceased persons. Manual comparison of ante-mortem and post-mortem
 records, however, is a tedious and time-consuming job. Automating this process 
