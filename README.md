@@ -10,3 +10,5 @@ panoramic radiographs.
 
 The goal of this project is to write an algorithm that is capable of segmenting the 8
 incisors automatically using a model based approach. 
+
+The description of the algorithm and the results have been collated in the Report.pdf file.
